@@ -5,3 +5,6 @@ win64/*
 
 # ignore anything from inside of sdata
 sdata/*
+
+# ignore PAT
+.gittoken
