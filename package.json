@@ -1,0 +1,8 @@
+{
+	"name": "PlanCol",
+	"main": "src/index.html",
+	"window": {
+		"show": true
+	},
+	"chromium-args": "--disable-cookie-encryption --disable-background-networking --enable-power-overlay --disable-canvas-aa --disable-2d-canvas-clip-aa --disable-2d-canvas-image-chromium --disable-dinosaur-easter-egg --disable-domain-reliability --disable-bundled-ppapi-flash --disable-gpu-sandbox --disable-notifications --disable-skia-runtime-opts --disable-font-subpixel-positioning --disable-system-font-check --enable-accelerated-2d-canvas --enable-low-end-device-mode"
+}

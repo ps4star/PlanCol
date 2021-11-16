@@ -1,0 +1,27 @@
+#world-wrapper {
+	position: absolute;
+
+	top: 0;
+	left: 0;
+
+	width: 100%;
+	height: 100%;
+
+	background: green;
+}
+
+/* this holds the canvas */
+#wmap-wrapper {
+	width: 100%;
+	height: 100%;
+
+	align-items: center;
+	justify-content: center;
+}
+
+#wmap-canvas {
+	width: 90%;
+	height: 90%;
+
+	image-rendering: pixelated;
+}

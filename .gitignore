@@ -1,0 +1,7 @@
+# ignore anything from the lin64/mac64/win64 release dirs
+lin64/*
+mac64/*
+win64/*
+
+# ignore anything from inside of sdata
+sdata/*
